@@ -23,3 +23,7 @@ Here is a guide for locating the appropriate database in each project folder.
 
 In the following slides, I describe in detail the most relevant aspects of the analysis study, as well as insights, opportunities, and improvements.
 **Go to the slides:** https://www.canva.com/design/DAGCAZIMQSg/xp44SG-dn7EzN4uDsp158Q/view?utm_content=DAGCAZIMQSg&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+You can also find a very simple dashboard to see the data in one click, you can enter here:
+https://public.tableau.com/views/Task_mkt_2024/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
