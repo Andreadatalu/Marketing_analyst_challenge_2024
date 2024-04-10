@@ -1,1 +1,1 @@
-# Marketing_analyst_challenge_2024--Challenge-
+# Marketing_analyst_challenge_2024-
